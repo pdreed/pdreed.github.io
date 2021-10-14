@@ -8,12 +8,11 @@
 <p>
   As part of the course the group created a project description website. This website includes bios about each group member, deliverables from each sprint, and a video of our final presentation. 
   
+  <a href="https://pdreed.github.io/uflow-website/">Click here </a>
+  to view the project description website. 
+  
   The source code for this project description website exists in this repository. 
 </p>
-<br>
-
-<h2>How to view the project description website</h2>
-
 <br>
 
 <h2>Find repository for software developed during project</h2>
