@@ -18,7 +18,7 @@ body {
 }
 
 .navbar .logo span {
-  color: red;
+  color: #990f0f;
 }
 
 .navbar nav {
@@ -68,7 +68,7 @@ section {
 }
 
 .left-col .primary-cta {
-  background: red;
+  background: #990f0f;
   color: white;
   text-decoration: none;
   padding: 0.6em 1.3em;
@@ -100,7 +100,7 @@ nav {
   width: 66%;
   right: 0;
   top: 0;
-  background: red;
+  background: #990f0f;
   height: 100vh;
   padding: 1em;
 }
